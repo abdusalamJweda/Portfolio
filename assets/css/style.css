@@ -1460,3 +1460,7 @@ footer .credits {
 footer .credits a {
   color: #fff;
 }
+
+.project-technlogies{
+  text-decoration: underline; display: inline-block; margin-right: 5px;
+}
